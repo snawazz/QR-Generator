@@ -10,7 +10,6 @@ QR-Generator is a Python-based project that generates QR codes for UPI IDs, text
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Installation
 Follow these steps to install and set up QR-Generator:
