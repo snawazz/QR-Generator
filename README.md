@@ -28,3 +28,32 @@ Follow these steps to set up and run the project on your local machine.
    ```bash
    git clone <your-repository-url>
    cd QR-Generator
+
+2. **Create a Virtual Environment**
+
+   It's recommended to use a virtual environment to manage project dependencies.
+   ```bash
+   python -m venv venv
+   .\venv\Scripts\activate
+
+3. **Install Required Packages**  
+
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the Application**  
+
+   ```bash
+   python qrGen.py
+
+The application window should now appear on your screen.
+
+## Usage
+
+- Enter your UPI ID or any custom text/URL in the input box.
+- Click Generate QR Code to see the QR code preview.
+- Click Save to store the QR code as an image file.
+   
+
+   
+   
